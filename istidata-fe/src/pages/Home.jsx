@@ -229,7 +229,6 @@ export default function Home() {
                   </div>
                   <Modal show={show} onHide={handleClose} centered>
                     <Modal.Body>
-                      <h3 className="text-center">Hapus</h3>
                       <div className="my-4"> Anda yakin ingin menghapus data yang dipilih ?</div>
                       <div className="my-3 text-end">
                         <Button
